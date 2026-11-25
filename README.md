@@ -2,6 +2,8 @@
 
 Welcome to my portfolio of data analysis, SQL warehousing, and Power BI reporting projects. Each project in this repository transforms raw, real-world, or operational datasets into structured data models, clean metrics, and decision-ready dashboards.
 
+**Companion Repository:** Looking for standalone SQL warehousing, **dbt** modeling, star-schema ETL (`Makefile` + `psycopg2`), and retail margin/scenario queries? View my **[SQL & Data Engineering Portfolio (`sql_portfolio`)](https://github.com/afgiv/sql_portfolio)**.
+
 ---
 
 ### 🛒 1. [Online Retail — End-to-End ELT & Incremental Sales Pipeline](./Online%20Retail) *(Work in Progress)*
